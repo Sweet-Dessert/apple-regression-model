@@ -10,7 +10,6 @@ Add a seasonality dummy for fiscal Q1 (holiday quarter) + interaction term, refi
 Forecast future revenue using synthetic_data.csv.
 Files needed
 qSales_2024.csv
-synthetic_data.csv
-Requirements
 
+Requirements
 pandas, numpy, statsmodels, matplotlib
